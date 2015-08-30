@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model userDefinedModelVersionIdentifier="" type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="5064" systemVersion="12F45" minimumToolsVersion="Xcode 4.3" macOSVersion="Automatic" iOSVersion="Automatic">
+    <entity name="PhoneNumber" representedClassName="" syncable="YES">
+        <attribute name="created" optional="YES" attributeType="Date" syncable="YES"/>
+        <attribute name="modified" optional="YES" attributeType="Date" syncable="YES"/>
+        <attribute name="note" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="number" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="t_firstLetter" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="temp" optional="YES" attributeType="Boolean" syncable="YES"/>
+        <attribute name="title" optional="YES" attributeType="String" syncable="YES"/>
+        <relationship name="reminder" optional="YES" maxCount="1" deletionRule="Cascade" destinationEntity="Reminder" inverseName="number" inverseEntity="Reminder" syncable="YES"/>
+    </entity>
+    <entity name="Reminder" representedClassName="Reminder" syncable="YES">
+        <attribute name="alarm" optional="YES" attributeType="Date" syncable="YES"/>
+        <attribute name="notification" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="t_dateName" optional="YES" transient="YES" attributeType="String" syncable="YES"/>
+        <relationship name="number" optional="YES" maxCount="1" deletionRule="Nullify" destinationEntity="PhoneNumber" inverseName="reminder" inverseEntity="PhoneNumber" syncable="YES"/>
+    </entity>
+    <elements>
+        <element name="PhoneNumber" positionX="0" positionY="0" width="128" height="165"/>
+        <element name="Reminder" positionX="0" positionY="0" width="128" height="105"/>
+    </elements>
+</model>

@@ -1,0 +1,6 @@
+
+/* Class = "IBUILabel"; text = "The list is empty"; ObjectID = "AZr-sX-ci2"; */
+"AZr-sX-ci2.text" = "Список пуст";
+
+/* Class = "IBUILabel"; text = "Tap \"+\" to add new contact or reminder!"; ObjectID = "T9M-aC-h9a"; */
+"T9M-aC-h9a.text" = "Нажмите \"+\" чтобы добавить новый номер или напоминание!";

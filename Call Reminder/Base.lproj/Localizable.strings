@@ -1,0 +1,24 @@
+/* Localized versions of Info.plist keys */
+
+"DELETE_SURE" = "Sure? Tap Again!";
+"NEW_NUMBER" = "New Number";
+"EDIT_NUMBER" = "Edit Number";
+"REMIDNDERLIST_EXPIRED" = "Expired";
+"SETTINGS_VIEW" = "Settings";
+"TODAY" = "Today";
+"TOMORROW" = "Tomorrow";
+"CALL_MESSAGE" = "Call";
+"CALL_NOW" = "Call now";
+"CALL_LATER" = "Later";
+"DEVICE_NOSUPPORT" = "Sorry, your device doesn't support phone calls.";
+"AFTERCALL_MESSAGE" = "Last time you called %@. Should I delete reminder or reschedule it?";
+"CANCEL" = "Cancel";
+"AFTERCALL_REMINDLATER" = "Remind me in %@ mins";
+"AFTERCALL_DELETE" = "Delete reminder";
+"REMINDERS_SECTION" = "Reminders";
+"REMINDER" = "Reminder";
+"ALERT" = "Alert!";
+"NOTIFS_OFF" = "Unable to create a reminder, because the notifications for this app are disabled! Please, go to your device settings and turn them on for this app.";
+"NAME_FIELD" = "Name or Title";
+"NAME_FIELD_HINT" = "Name or Title - Start typing to select existing...";
+"NOTIF_BEFORENOW" = "The time of notification has already passed! Please, verify the date and time of the notification.";

@@ -1,0 +1,61 @@
+
+/* Class = "IBUITextField"; placeholder = "Notification message"; ObjectID = "3E5-cr-Q7o"; */
+"3E5-cr-Q7o.placeholder" = "Сообщение в напоминании";
+
+/* Class = "IBUITableViewSection"; footerTitle = "Disable tables transition effect"; ObjectID = "Acm-ez-DaF"; */
+"Acm-ez-DaF.footerTitle" = "Отключить эффект переключения таблиц";
+
+/* Class = "IBUILabel"; text = "Remind me to call"; ObjectID = "BFM-qq-wgp"; */
+"BFM-qq-wgp.text" = "Напомнить позвонить";
+
+/* Class = "IBUITableViewController"; title = "Settings"; ObjectID = "BNl-CW-BTG"; */
+"BNl-CW-BTG.title" = "Настройки";
+
+/* Class = "IBUISegmentedControl"; DDQ-g2-2Ij.segmentTitles[0] = "Numbers"; ObjectID = "DDQ-g2-2Ij"; */
+"DDQ-g2-2Ij.segmentTitles[0]" = "Номера";
+
+/* Class = "IBUISegmentedControl"; DDQ-g2-2Ij.segmentTitles[1] = "Reminders"; ObjectID = "DDQ-g2-2Ij"; */
+"DDQ-g2-2Ij.segmentTitles[1]" = "Напоминания";
+
+/* Class = "IBUILabel"; text = "Call from notification"; ObjectID = "I2M-15-8xm"; */
+"I2M-15-8xm.text" = "При звонке с напоминания";
+
+/* Class = "IBUINavigationItem"; title = "Edit Number"; ObjectID = "MlV-aX-wbo"; */
+"MlV-aX-wbo.title" = "Изменить номер";
+
+/* Class = "IBUILabel"; text = "Decrease animation"; ObjectID = "OiQ-dX-Xyi"; */
+"OiQ-dX-Xyi.text" = "Меньше анимации";
+
+/* Class = "IBUIButton"; normalTitle = "Delete Number and Reminder"; ObjectID = "PB4-JN-1SW"; */
+"PB4-JN-1SW.normalTitle" = "Удалить номер и напоминание";
+
+/* Class = "IBUINavigationItem"; title = "Settings"; ObjectID = "Se9-Jn-yGb"; */
+"Se9-Jn-yGb.title" = "Настройки";
+
+/* Class = "IBUILabel"; text = "After call"; ObjectID = "UH1-fk-ivU"; */
+"UH1-fk-ivU.text" = "После звонка";
+
+/* Class = "IBUITableViewSection"; headerTitle = "Confirmations"; ObjectID = "gij-db-5Dq"; */
+"gij-db-5Dq.headerTitle" = "Подтверждения";
+
+/* Class = "IBUILabel"; text = "Group contacts"; ObjectID = "l04-hS-gUr"; */
+"l04-hS-gUr.text" = "Группировать контакты";
+
+/* Class = "IBUIButton"; normalTitle = "Generate Contacts"; ObjectID = "oJd-er-bv0"; */
+"oJd-er-bv0.normalTitle" = "Generate Contacts";
+
+/* Class = "IBUITextField"; placeholder = "Number"; ObjectID = "sWs-0D-pYz"; */
+"sWs-0D-pYz.placeholder" = "Номер";
+
+/* Class = "IBUILabel"; text = "Call from list"; ObjectID = "uv4-cK-vh2"; */
+"uv4-cK-vh2.text" = "При звонке из списка";
+
+/* Class = "IBUILabel"; text = "Enable numbers formating"; ObjectID = "vtO-dl-gpD"; */
+"vtO-dl-gpD.text" = "Форматирование номеров";
+
+/* Class = "IBUITextField"; placeholder = "Name"; ObjectID = "z2i-5b-oMC"; */
+"z2i-5b-oMC.placeholder" = "Имя или заголовок (начните вводить)";
+
+//"PBz-7i-MM2.headerTitle" = "Контакт";
+"fpx-F7-xZs.headerTitle" = "Напоминание";
+
